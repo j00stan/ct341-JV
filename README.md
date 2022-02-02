@@ -1,2 +1,5 @@
 # ct341-JV
-CT341 - Design for Web Based UI
+Design for Web Based UI
+
+## Project 1
+Static page with parallax scrolling.
