@@ -1,3 +1,5 @@
+/* TYPOGRAPHY */
+
 h1,
 h2{
     color: limegreen;
@@ -12,4 +14,13 @@ p{
 
 a{
     color: limegreen;
+    font-family: 'Space Mono', monospace;
 }
+
+/* LAYOUT */
+
+
+
+/* MEDIA */
+
+
