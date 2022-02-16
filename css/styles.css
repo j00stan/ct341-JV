@@ -1,1 +1,15 @@
+h1,
+h2{
+    color: limegreen;
+    font-family: 'Space Mono', monospace;
+    font-weight: 700;
+}
 
+p{
+    color: gray;
+    font-family: 'Space Mono', monospace;
+}
+
+a{
+    color: limegreen;
+}
