@@ -1,20 +1,19 @@
 /* TYPOGRAPHY */
 
-h1,
-h2{
-    color: limegreen;
+body{
+    color: slategrey;
+    font-size: 14px;
     font-family: 'Space Mono', monospace;
-    font-weight: 700;
 }
 
-p{
-    color: gray;
-    font-family: 'Space Mono', monospace;
+h1,
+h2,
+h3{
+    color: limegreen;
 }
 
 a{
     color: limegreen;
-    font-family: 'Space Mono', monospace;
 }
 
 /* LAYOUT */
